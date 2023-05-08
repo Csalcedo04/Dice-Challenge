@@ -49,10 +49,12 @@ img{
     width: 100%;
    }
 }
-@media (max-width:688px  ) { 
-   
+@media (max-width:532px  ) { 
+    h1{
+        margin: 10.5px;
+    }
     img{
-        width:  40%;
+        width: 30%;
     }
 
 }
